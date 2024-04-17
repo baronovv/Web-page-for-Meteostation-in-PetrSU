@@ -28,12 +28,13 @@ To view and run the project locally, follow these steps:
 2. **Launch the Application**
    - Ensure you have a local server environment that can interpret PHP (e.g., XAMPP, WAMP, MAMP, or Docker).
    - Place the project folder in your server's root directory.
-   - Open a web browser and navigate to `localhost/meteostation/index.html` to view the application.
+   - Open a web browser and navigate to `localhost/meteostation/index.php` to view the application.
 
 ## Technologies Used
 
 - **PHP**: Server-side scripting to process data from weather stations.
 - **JavaScript**: Client-side scripting for dynamic content interaction and data visualization.
+- **CSS**: style the appearance of content on web page.
 
 ## Contributing
 
